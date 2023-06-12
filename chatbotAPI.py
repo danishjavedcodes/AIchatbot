@@ -3,7 +3,7 @@ import openai
 
 app = Flask(__name__)
 
-openai.api_key = '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'
+openai.api_key = 'sk-##################################' #replace with your API
 messages = []
 
 chat = {
